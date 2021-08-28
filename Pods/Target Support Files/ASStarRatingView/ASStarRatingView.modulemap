@@ -1,0 +1,6 @@
+framework module ASStarRatingView {
+  umbrella header "ASStarRatingView-umbrella.h"
+
+  export *
+  module * { export * }
+}
